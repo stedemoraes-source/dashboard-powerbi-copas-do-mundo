@@ -1,5 +1,5 @@
 # ⚽ Dashboard Interativo — História das Copas do Mundo FIFA (1930–2022)
-
+Power BI | DAX | Data Visualization | Dashboard
 <p align="center">
   <img src="dashboard.png" width="900">
 </p>
